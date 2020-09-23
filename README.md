@@ -12,14 +12,22 @@ I feel most alive at work when I'm bringing information that previously needed a
 
 For fun, I love it when I've found a FOSS project that's **so useful** to me, but there's just *one tiny thing* I wish it could do better- So I get to clone it, setup its' dev env, & then make it do that one tiny thing.
 
-# Reach me
-
-[![matthewstrasiotto's github stats](https://github-readme-stats.vercel.app/api?username=matthewstrasiotto&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+## Reach me
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Mstrasiotto?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/Mstrasiotto)
-
 [![LinkedIn connect](https://img.shields.io/static/v1?color=%231DA1F2&label=Connect&message=%20&style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/matthewstrasiotto)
 
+## Repos I contribute to
+
+[![cronnit](https://github-readme-stats.vercel.app/api/pin/?username=krisives&repo=cronnit.us)](https://github.com/krisives/cronnit.us)
+
+
+## My dotfiles
+
+
+## GH Stats
+
+[![matthewstrasiotto's github stats](https://github-readme-stats.vercel.app/api?username=matthewstrasiotto&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **matthewstrasiotto/matthewstrasiotto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
