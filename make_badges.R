@@ -14,7 +14,7 @@ links <- proper_repos %>%
 
     out <- glue::glue(
       '<a href="{url}/commits?author=matthewstrasiotto">',
-      '<img align="center"',
+      '<img align="center" ',
       'src="{endpoint}/{nameWithOwner}?label={label}&style={style}&logo=GitHub"',
       ' />',
       '</a>',
