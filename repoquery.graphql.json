@@ -1,0 +1,15 @@
+{
+  viewer {
+    login
+    repositoriesContributedTo(first: 100, orderBy: {field: STARGAZERS, direction: DESC}, privacy: PUBLIC, includeUserRepositories: false) {
+      nodes {
+        nameWithOwner
+        name
+        owner {
+          login
+        }
+        url
+      }
+    }
+  }
+}
