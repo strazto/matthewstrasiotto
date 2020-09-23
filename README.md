@@ -36,8 +36,9 @@ For fun, I love it when I've found a FOSS project that's **so useful** to me, bu
 
 ### Occasionally
 
-<div align="left" style="float: left;">
+<div class="row">
 
+<div class="col-12 col-md-6">
 :sparkles:<a href="https://github.com/r-lib/pkgdown/commits?author=matthewstrasiotto"><img align="center" src="https://img.shields.io/github/stars/r-lib/pkgdown?label=r-lib%20/%20pkgdown%20%E2%AD%90&style=flat-square&logo=GitHub" /></a>
 
 :sparkles:<a href="https://github.com/christoomey/vim-tmux-navigator/commits?author=matthewstrasiotto"><img align="center" src="https://img.shields.io/github/stars/christoomey/vim-tmux-navigator?label=christoomey%20/%20vim-tmux-navigator%20%E2%AD%90&style=flat-square&logo=GitHub" /></a>
@@ -54,7 +55,7 @@ For fun, I love it when I've found a FOSS project that's **so useful** to me, bu
 
 </div>
 
-<div align="right" style="float: right;">
+<div class="col-12 col-md-6">
 
 :sparkles:<a href="https://github.com/ropensci-books/drake/commits?author=matthewstrasiotto"><img align="center" src="https://img.shields.io/github/stars/ropensci-books/drake?label=ropensci-books%20/%20drake%20%E2%AD%90&style=flat-square&logo=GitHub" /></a>
 
