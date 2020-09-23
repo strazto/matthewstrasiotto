@@ -57,7 +57,9 @@ For fun, I love it when I've found a FOSS project that's **so useful** to me, bu
 <div align="right">
 
 :sparkles:<a href="https://github.com/ropensci-books/drake/commits?author=matthewstrasiotto"><img align="center" src="https://img.shields.io/github/stars/ropensci-books/drake?label=ropensci-books%20/%20drake%20%E2%AD%90&style=for-the-badge&logo=GitHub" /></a>
+
 :sparkles:<a href="https://github.com/paulklemm/rvisidata/commits?author=matthewstrasiotto"><img align="center" src="https://img.shields.io/github/stars/paulklemm/rvisidata?label=paulklemm%20/%20rvisidata%20%E2%AD%90&style=for-the-badge&logo=GitHub" /></a>
+
 :sparkles:<a href="https://github.com/deekue/uebersicht-remontoire.widget/commits?author=matthewstrasiotto"><img align="center" src="https://img.shields.io/github/stars/deekue/uebersicht-remontoire.widget?label=deekue%20/%20uebersicht-remontoire.widget%20%E2%AD%90&style=for-the-badge&logo=GitHub" /></a>
 </div>
 
