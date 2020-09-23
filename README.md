@@ -19,21 +19,12 @@ For fun, I love it when I've found a FOSS project that's **so useful** to me, bu
 [![Twitter Follow](https://img.shields.io/twitter/follow/Mstrasiotto?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/Mstrasiotto)
 [![LinkedIn connect](https://img.shields.io/static/v1?color=%231DA1F2&label=Connect&message=%20&style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/matthewstrasiotto)
 
-## Repos I maintain
+## Repos I maintain, or actively contribute to
 <div align="center">
 
 <a href="https://github.com/matthewstrasiotto/mandrake">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matthewstrasiotto&repo=mandrake&theme=dark&show_owner=true" />
 </a>
-
-</div>
-
-## Repos I contribute to
-
-### Actively
-
-<div align="center">
-
 <a href="https://github.com/krisives/cronnit.us/commits?author=matthewstrasiotto">
 <img 
   align="center"
