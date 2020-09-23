@@ -19,6 +19,17 @@ For fun, I love it when I've found a FOSS project that's **so useful** to me, bu
 
 ## Repos I contribute to
 
+### Actively
+
+<a href="https://github.com/krisives/cronnit.us/commits?author=matthewstrasiotto">
+<img 
+  align="center"
+  src="https://github-readme-stats.vercel.app/api/pin/?username=krisives&repo=cronnit.us&theme=dark&show_owner=true"
+/>
+</a>
+
+### Occasionally
+
 <a href="https://github.com/r-lib/pkgdown/commits?author=matthewstrasiotto"><img align="center" src="https://img.shields.io/github/stars/r-lib/pkgdown?label=r-lib%20/%20pkgdown%20%E2%AD%90&style=for-the-badge&logo=GitHub" /></a>
 
 <a href="https://github.com/christoomey/vim-tmux-navigator/commits?author=matthewstrasiotto"><img align="center" src="https://img.shields.io/github/stars/christoomey/vim-tmux-navigator?label=christoomey%20/%20vim-tmux-navigator%20%E2%AD%90&style=for-the-badge&logo=GitHub" /></a>
@@ -34,8 +45,6 @@ For fun, I love it when I've found a FOSS project that's **so useful** to me, bu
 <a href="https://github.com/ropensci/drake/commits?author=matthewstrasiotto"><img align="center" src="https://img.shields.io/github/stars/ropensci/drake?label=ropensci%20/%20drake%20%E2%AD%90&style=for-the-badge&logo=GitHub" /></a>
 
 <a href="https://github.com/ropensci-books/drake/commits?author=matthewstrasiotto"><img align="center" src="https://img.shields.io/github/stars/ropensci-books/drake?label=ropensci-books%20/%20drake%20%E2%AD%90&style=for-the-badge&logo=GitHub" /></a>
-
-<a href="https://github.com/krisives/cronnit.us/commits?author=matthewstrasiotto"><img align="center" src="https://img.shields.io/github/stars/krisives/cronnit.us?label=krisives%20/%20cronnit.us%20%E2%AD%90&style=for-the-badge&logo=GitHub" /></a>
 
 <a href="https://github.com/paulklemm/rvisidata/commits?author=matthewstrasiotto"><img align="center" src="https://img.shields.io/github/stars/paulklemm/rvisidata?label=paulklemm%20/%20rvisidata%20%E2%AD%90&style=for-the-badge&logo=GitHub" /></a>
 
