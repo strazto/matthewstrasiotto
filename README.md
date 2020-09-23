@@ -54,10 +54,10 @@ For fun, I love it when I've found a FOSS project that's **so useful** to me, bu
 ### My dotfiles
 
 
+<!--
 ### GH Stats
 
 [![matthewstrasiotto's github stats](https://github-readme-stats.vercel.app/api?username=matthewstrasiotto&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-<!--
 **matthewstrasiotto/matthewstrasiotto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
