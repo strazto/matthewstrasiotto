@@ -19,7 +19,7 @@ For fun, I love it when I've found a FOSS project that's **so useful** to me, bu
 
 ## Repos I contribute to
 
-[![cronnit](https://github-readme-stats.vercel.app/api/pin/?username=krisives&repo=cronnit.us)](https://github.com/krisives/cronnit.us)
+[![cronnit](https://github-readme-stats.vercel.app/api/pin/?username=krisives&repo=cronnit.us&theme=dark)](https://github.com/krisives/cronnit.us)
 
 
 ## My dotfiles
