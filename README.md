@@ -20,16 +20,27 @@ For fun, I love it when I've found a FOSS project that's **so useful** to me, bu
 ## Repos I contribute to
 
 <a href="https://github.com/r-lib/pkgdown/commits?author=matthewstrasiotto"><img align="center" src="https://img.shields.io/github/stars/r-lib/pkgdown?label=r-lib%20/%20pkgdown%20%E2%AD%90&style=for-the-badge&logo=GitHub" /></a>
+
 <a href="https://github.com/christoomey/vim-tmux-navigator/commits?author=matthewstrasiotto"><img align="center" src="https://img.shields.io/github/stars/christoomey/vim-tmux-navigator?label=christoomey%20/%20vim-tmux-navigator%20%E2%AD%90&style=for-the-badge&logo=GitHub" /></a>
+
 <a href="https://github.com/darkreader/darkreader/commits?author=matthewstrasiotto"><img align="center" src="https://img.shields.io/github/stars/darkreader/darkreader?label=darkreader%20/%20darkreader%20%E2%AD%90&style=for-the-badge&logo=GitHub" /></a>
+
 <a href="https://github.com/mschubert/clustermq/commits?author=matthewstrasiotto"><img align="center" src="https://img.shields.io/github/stars/mschubert/clustermq?label=mschubert%20/%20clustermq%20%E2%AD%90&style=for-the-badge&logo=GitHub" /></a>
+
 <a href="https://github.com/yihui/xaringan/commits?author=matthewstrasiotto"><img align="center" src="https://img.shields.io/github/stars/yihui/xaringan?label=yihui%20/%20xaringan%20%E2%AD%90&style=for-the-badge&logo=GitHub" /></a>
+
 <a href="https://github.com/SpaceVim/SpaceVim/commits?author=matthewstrasiotto"><img align="center" src="https://img.shields.io/github/stars/SpaceVim/SpaceVim?label=SpaceVim%20/%20SpaceVim%20%E2%AD%90&style=for-the-badge&logo=GitHub" /></a>
+
 <a href="https://github.com/ropensci/drake/commits?author=matthewstrasiotto"><img align="center" src="https://img.shields.io/github/stars/ropensci/drake?label=ropensci%20/%20drake%20%E2%AD%90&style=for-the-badge&logo=GitHub" /></a>
+
 <a href="https://github.com/ropensci-books/drake/commits?author=matthewstrasiotto"><img align="center" src="https://img.shields.io/github/stars/ropensci-books/drake?label=ropensci-books%20/%20drake%20%E2%AD%90&style=for-the-badge&logo=GitHub" /></a>
+
 <a href="https://github.com/krisives/cronnit.us/commits?author=matthewstrasiotto"><img align="center" src="https://img.shields.io/github/stars/krisives/cronnit.us?label=krisives%20/%20cronnit.us%20%E2%AD%90&style=for-the-badge&logo=GitHub" /></a>
+
 <a href="https://github.com/paulklemm/rvisidata/commits?author=matthewstrasiotto"><img align="center" src="https://img.shields.io/github/stars/paulklemm/rvisidata?label=paulklemm%20/%20rvisidata%20%E2%AD%90&style=for-the-badge&logo=GitHub" /></a>
+
 <a href="https://github.com/deekue/uebersicht-remontoire.widget/commits?author=matthewstrasiotto"><img align="center" src="https://img.shields.io/github/stars/deekue/uebersicht-remontoire.widget?label=deekue%20/%20uebersicht-remontoire.widget%20%E2%AD%90&style=for-the-badge&logo=GitHub" /></a>
+
 ## Repos I maintain
 
 <a href="https://github.com/matthewstrasiotto/mandrake">

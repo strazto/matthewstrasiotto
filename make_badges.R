@@ -23,4 +23,4 @@ links <- proper_repos %>%
     )
   })
 
-links %>% glue::glue_collapse(sep = "\n")
+links %>% glue::glue_collapse(sep = "\n\n")
