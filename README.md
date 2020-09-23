@@ -36,7 +36,7 @@ For fun, I love it when I've found a FOSS project that's **so useful** to me, bu
 
 ### Occasionally
 
-<div align="center"">
+<div align="center" style="display: flex; justify-content: space-around;">
 
 <a href="https://github.com/r-lib/pkgdown/commits?author=matthewstrasiotto"><img align="center" src="https://img.shields.io/github/stars/r-lib/pkgdown?label=r-lib%20/%20pkgdown%20%E2%AD%90&style=for-the-badge&logo=GitHub" /></a>
 :sparkles:<a href="https://github.com/christoomey/vim-tmux-navigator/commits?author=matthewstrasiotto"><img align="center" src="https://img.shields.io/github/stars/christoomey/vim-tmux-navigator?label=christoomey%20/%20vim-tmux-navigator%20%E2%AD%90&style=for-the-badge&logo=GitHub" /></a>
