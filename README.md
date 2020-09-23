@@ -2,6 +2,8 @@
 
 I'm a big nerd, FOSS enthusiast & australian developer :australia:
 
+### What I do for work
+
 I work as a software engineer, building pipelines that transform electronic medical records into useable data, & extract valuable information from messy, underutilized datasets. 
 
 In this domain I get to work with R, & my primary tools & expertises are data-pipelining, literate programming, & designing workflows & tools that ease the gap between big, complex pipelines, & the people who need their insights.
@@ -12,14 +14,14 @@ I feel most alive at work when I'm bringing information that previously needed a
 
 For fun, I love it when I've found a FOSS project that's **so useful** to me, but there's just *one tiny thing* I wish it could do better- So I get to clone it, setup its' dev env, & then make it do that one tiny thing.
 
-## Reach me
+### Reach me
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Mstrasiotto?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/Mstrasiotto)
 [![LinkedIn connect](https://img.shields.io/static/v1?color=%231DA1F2&label=Connect&message=%20&style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/matthewstrasiotto)
 
 ## Repos I contribute to
 
-### Actively
+#### Actively
 
 <a href="https://github.com/krisives/cronnit.us/commits?author=matthewstrasiotto">
 <img 
@@ -28,7 +30,9 @@ For fun, I love it when I've found a FOSS project that's **so useful** to me, bu
 />
 </a>
 
-### Occasionally
+#### Occasionally
+
+<div align="center"">
 
 <a href="https://github.com/r-lib/pkgdown/commits?author=matthewstrasiotto"><img align="center" src="https://img.shields.io/github/stars/r-lib/pkgdown?label=r-lib%20/%20pkgdown%20%E2%AD%90&style=for-the-badge&logo=GitHub" /></a>
 
@@ -50,16 +54,20 @@ For fun, I love it when I've found a FOSS project that's **so useful** to me, bu
 
 <a href="https://github.com/deekue/uebersicht-remontoire.widget/commits?author=matthewstrasiotto"><img align="center" src="https://img.shields.io/github/stars/deekue/uebersicht-remontoire.widget?label=deekue%20/%20uebersicht-remontoire.widget%20%E2%AD%90&style=for-the-badge&logo=GitHub" /></a>
 
-## Repos I maintain
+</div>
+
+### Repos I maintain
+<div align="center">
 
 <a href="https://github.com/matthewstrasiotto/mandrake">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matthewstrasiotto&repo=mandrake&theme=dark&show_owner=true" />
 </a>
 
-## My dotfiles
+</div>
+### My dotfiles
 
 
-## GH Stats
+### GH Stats
 
 [![matthewstrasiotto's github stats](https://github-readme-stats.vercel.app/api?username=matthewstrasiotto&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
@@ -76,3 +84,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![HitCount](http://hits.dwyl.com/matthewstrasiotto/matthewstrasiotto.svg)](http://hits.dwyl.com/matthewstrasiotto/matthewstrasiotto)
