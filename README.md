@@ -19,10 +19,24 @@ For fun, I love it when I've found a FOSS project that's **so useful** to me, bu
 
 ## Repos I contribute to
 
-<a href="https://github.com/krisives/cronnit.us">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krisives&repo=cronnit.us&theme=dark&show_owner=true" />
+<a href="https://github.com/krisives/cronnit.us/commits?author=matthewstrasiotto">
+<img align="center" src="https://img.shields.io/github/stars/krisives/cronnit.us?label=krisives%2Fcronnit.us%20%E2%AD%90&logo=GitHub&style=for-the-badge" />
 </a>
-
+<a href="https://github.com/ropensci/drake/commits?author=matthewstrasiotto">
+<img align="center" src="https://img.shields.io/github/stars/ropensci/drake?label=ropensci%20%2F%20drake%20%E2%AD%90&logo=GitHub&style=for-the-badge" />
+</a>
+<a href="https://github.com/r-lib/pkgdown/commits?author=matthewstrasiotto">
+<img align="center" src="https://img.shields.io/github/stars/r-lib/pkgdown?label=r-lib%20%2F%20pkgdown%20%E2%AD%90&logo=GitHub&style=for-the-badge" />
+</a>
+<a href="https://github.com/mschubert/clustermq/commits?author=matthewstrasiotto">
+<img align="center" src="https://img.shields.io/github/stars/mschubert/clustermq?label=mschubert%20%2F%20clustermq%20%E2%AD%90&logo=GitHub&style=for-the-badge" />
+</a>
+<a href="https://github.com/yihui/xaringan/commits?author=matthewstrasiotto">
+<img align="center" src="https://img.shields.io/github/stars/yihui/xaringan?label=yihui%20%2F%20xaringan%20%E2%AD%90&logo=GitHub&style=for-the-badge" />
+</a>
+<a href="https://github.com/yotamberk/timeline-plus/commits?author=matthewstrasiotto">
+<img align="center" src="https://img.shields.io/github/stars/yotamberk/timeline-plus?label=yotamberk%20%2F%20timeline-plus%20%E2%AD%90&logo=GitHub&style=for-the-badge" />
+</a>
 ## Repos I maintain
 
 <a href="https://github.com/matthewstrasiotto/mandrake">
