@@ -36,7 +36,7 @@ For fun, I love it when I've found a FOSS project that's **so useful** to me, bu
 
 ### Occasionally
 
-<div align="left" style="float: left;">
+<span align="left" style="float: left;">
 
 :sparkles:<a href="https://github.com/r-lib/pkgdown/commits?author=matthewstrasiotto"><img align="center" src="https://img.shields.io/github/stars/r-lib/pkgdown?label=r-lib%20/%20pkgdown%20%E2%AD%90&style=flat-square&logo=GitHub" /></a>
 
@@ -52,16 +52,16 @@ For fun, I love it when I've found a FOSS project that's **so useful** to me, bu
 
 :sparkles:<a href="https://github.com/ropensci/drake/commits?author=matthewstrasiotto"><img align="center" src="https://img.shields.io/github/stars/ropensci/drake?label=ropensci%20/%20drake%20%E2%AD%90&style=flat-square&logo=GitHub" /></a>
 
-</div>
+</span>
 
-<div align="right" style="float: right;">
+<span align="right" style="float: right;">
 
 :sparkles:<a href="https://github.com/ropensci-books/drake/commits?author=matthewstrasiotto"><img align="center" src="https://img.shields.io/github/stars/ropensci-books/drake?label=ropensci-books%20/%20drake%20%E2%AD%90&style=flat-square&logo=GitHub" /></a>
 
 :sparkles:<a href="https://github.com/paulklemm/rvisidata/commits?author=matthewstrasiotto"><img align="center" src="https://img.shields.io/github/stars/paulklemm/rvisidata?label=paulklemm%20/%20rvisidata%20%E2%AD%90&style=flat-square&logo=GitHub" /></a>
 
 :sparkles:<a href="https://github.com/deekue/uebersicht-remontoire.widget/commits?author=matthewstrasiotto"><img align="center" src="https://img.shields.io/github/stars/deekue/uebersicht-remontoire.widget?label=deekue%20/%20uebersicht-remontoire.widget%20%E2%AD%90&style=flat-square&logo=GitHub" /></a>
-</div>
+</span>
 
 ### My dotfiles
 
