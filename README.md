@@ -57,10 +57,17 @@ Make your terminal look like mine!
 
 ![demo](https://raw.githubusercontent.com/matthewstrasiotto/dotfiles/master/demo.x3.gif)
 
+<a href="https://github.com/matthewstrasiotto/dotfiles">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matthewstrasiotto&repo=dotfiles&theme=dark" />
+</a>
+
 <!--
-### GH Stats
+### GH Stats (commented for now)
 
 [![matthewstrasiotto's github stats](https://github-readme-stats.vercel.app/api?username=matthewstrasiotto&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![HitCount](http://hits.dwyl.com/matthewstrasiotto/matthewstrasiotto.svg)](http://hits.dwyl.com/matthewstrasiotto/matthewstrasiotto)
+
 **matthewstrasiotto/matthewstrasiotto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -76,4 +83,3 @@ Here are some ideas to get you started:
 -->
 
 
-[![HitCount](http://hits.dwyl.com/matthewstrasiotto/matthewstrasiotto.svg)](http://hits.dwyl.com/matthewstrasiotto/matthewstrasiotto)
