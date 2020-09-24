@@ -53,6 +53,9 @@ For fun, I love it when I've found a FOSS project that's **so useful** to me, bu
 
 ### My dotfiles
 
+Make your terminal look like mine!
+
+![demo](https://raw.githubusercontent.com/matthewstrasiotto/dotfiles/master/demo.x3.gif)
 
 <!--
 ### GH Stats
