@@ -34,7 +34,9 @@ For fun, I love it when I've found a FOSS project that's **so useful** to me, bu
 
 </div>
 
-### Occasionally
+## Repos I ocasionally contribute to
+
+<details><summary>Repos I've had PR's merged into</summary>
 
 <div align="center" style="display: flex; justify-content: space-between;">
 
@@ -51,11 +53,18 @@ For fun, I love it when I've found a FOSS project that's **so useful** to me, bu
 
 </div>
 
-### My dotfiles
+</details>
+
+## My dotfiles
 
 Make your terminal look like mine!
 
+<details>
+<summary>Animated demo of my terminal env</summary>
+
 ![demo](https://raw.githubusercontent.com/matthewstrasiotto/dotfiles/master/demo.x3.gif)
+
+</details>
 
 <a href="https://github.com/matthewstrasiotto/dotfiles">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matthewstrasiotto&repo=dotfiles&theme=dark" />
