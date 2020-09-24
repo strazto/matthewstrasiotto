@@ -67,7 +67,11 @@ Make your terminal look like mine!
 </details>
 
 <a href="https://github.com/matthewstrasiotto/dotfiles">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matthewstrasiotto&repo=dotfiles&theme=dark" />
+  <img
+   align="center"
+   src="https://github-readme-stats.vercel.app/api/pin/?username=matthewstrasiotto&repo=dotfiles&theme=dark" 
+   lazy=true
+   />
 </a>
 
 <!--
