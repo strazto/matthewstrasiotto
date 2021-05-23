@@ -16,7 +16,7 @@ For fun, I love it when I've found a FOSS project that's **so useful** to me, bu
 
 ### Reach me
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Mstrasiotto?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/Mstrasiotto)
+[![Twitter Follow](https://img.shields.io/twitter/follow/strazto?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/strazto)
 [![LinkedIn connect](https://img.shields.io/static/v1?color=%231DA1F2&label=Connect&message=%20&style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/matthewstrasiotto)
 
 ## Repos I maintain, or actively contribute to
