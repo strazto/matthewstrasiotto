@@ -1,7 +1,7 @@
 {
   viewer {
     login
-    repositoriesContributedTo(first: 100, orderBy: {field: STARGAZERS, direction: DESC}, privacy: PUBLIC, includeUserRepositories: false) {
+    repositoriesContributedTo(first: 100, orderBy: {field: STARGAZERS, direction: DESC}, privacy: PUBLIC, includeUserRepositories: false, contributionTypes: COMMIT) {
       nodes {
         nameWithOwner
         name
